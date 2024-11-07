@@ -1,0 +1,1 @@
+#Podemos calcular a sequência de operações manualmente ou reconhecer que o código está somando os números de 1 a 13. 
